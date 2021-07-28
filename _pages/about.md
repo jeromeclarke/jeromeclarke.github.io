@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page.
+This is the front page. Hi Ashley.
